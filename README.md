@@ -1,6 +1,6 @@
 # Módulo de pagamento
 
-## Modulo de pagamento para android, utilizando e encapsulando o package [in_app_purchase](https://pub.dev/packages/in_app_purchase).
+## Modulo de pagamento para flutter/android, encapsulando o package [in_app_purchase](https://pub.dev/packages/in_app_purchase).
 
 Tópicos
 =================
