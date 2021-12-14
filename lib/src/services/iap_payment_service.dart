@@ -23,7 +23,7 @@ class IAPPaymentService implements IPaymentService {
       changeSubscriptionParam: null,
     );
 
-    _inAppPurchase.buyNonConsumable(purchaseParam: purchaseParam);
+    await _inAppPurchase.buyNonConsumable(purchaseParam: purchaseParam);
   }
 
   @override
